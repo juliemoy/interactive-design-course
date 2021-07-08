@@ -1,0 +1,16 @@
+body {
+    background-image: url(images/bg1.jpg);
+    background-size: cover;
+}
+
+.home-words p {
+    margin: 0px;
+}
+
+.icon {
+    padding-right:0;
+}
+
+.hero {
+    height: 50vh;
+}
