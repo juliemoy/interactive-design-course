@@ -11,6 +11,13 @@ body {
     padding-right:0;
 }
 
-.hero {
+.slogan {
     height: 50vh;
+    width:600px;
 }
+
+.footer {
+    position: fixed;
+    bottom:20px;
+}
+
